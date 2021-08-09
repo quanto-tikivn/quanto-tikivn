@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @quanto-tikivn
+- 👀 I’m interested in automation testing and community building
+- 🌱 I’m currently learning building things
+- 💞️ I’m looking to collaborate on software and hardware development
+- 📫 How to reach me: quan.to@tiki.vn
